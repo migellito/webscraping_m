@@ -2,7 +2,7 @@
   <div class="simplified-banner--TDe_n no-banner--3BZ8O">
     <span>
     </span>
-    <div id="AdFox_banner_400763717">
+    <div id="AdFox_banner_290499252">
     </div>
   </div>
   <div class="offer-container--2MrIy">
@@ -11,14 +11,14 @@
         <div class="media--2wxts">
           <div class="container--1PSzw">
             <div class="container--2bixz photos--3eh9D">
-              <span itemprop="url" content="https://cdn-a.cian.site/6/021/314/kvartira-opaliha-ulica-dezhneva-413120679-1.jpg">
+              <span itemprop="url" content="https://cdn-a.cian.site/5/021/314/kvartira-opaliha-ulica-dezhneva-413120537-1.jpg">
               </span>
               <div class="container--2YRIp">
                 <div class="container--27xlO">
                   <div class="slides--3lWX2 slides--noTransform--1a4ek">
                     <div class="slide--2fJIv">
                       <div class="container--C5wLT">
-                        <img class="image--1oiyD" src="https://cdn-a.cian.site/6/021/314/kvartira-opaliha-ulica-dezhneva-413120679-2.jpg" alt=""/>
+                        <img class="image--1oiyD" src="https://cdn-a.cian.site/5/021/314/kvartira-opaliha-ulica-dezhneva-413120537-2.jpg" alt=""/>
                       </div>
                     </div>
                   </div>
@@ -40,12 +40,7 @@
                     </div>
                   </a>
                   <div>
-                    <div class="container--2ul9a">
-                      <div style="margin-left:0">
-                        <a href="https://krasnogorsk.cian.ru/zhiloy-kompleks-opaliha-o2-mikrorayon-opaliha-1309/" class="building-link--jEtZL" target="_blank">
-                          ЖК «Опалиха О2»
-                        </a>
-                      </div>
+                    <div>
                     </div>
                   </div>
                 </div>
@@ -61,7 +56,7 @@
                       <div class="simplified-banner--TDe_n no-banner--3BZ8O">
                         <span>
                         </span>
-                        <div id="AdFox_banner_1864636352">
+                        <div id="AdFox_banner_2874246268">
                         </div>
                       </div>
                     </div>
@@ -201,7 +196,7 @@
                     вчера
                   </div>
                   <div class="absolute--349Wb">
-                    вчера, 16:26
+                    вчера, 21:43
                   </div>
                 </div>
               </div>
@@ -247,14 +242,14 @@
         <div class="media--2wxts">
           <div class="container--1PSzw">
             <div class="container--2bixz photos--3eh9D">
-              <span itemprop="url" content="https://cdn-a.cian.site/9/421/314/kvartira-opaliha-ulica-dezhneva-413124925-1.jpg">
+              <span itemprop="url" content="https://cdn-a.cian.site/8/421/314/kvartira-opaliha-ulica-dezhneva-413124820-1.jpg">
               </span>
               <div class="container--2YRIp">
                 <div class="container--27xlO">
                   <div class="slides--3lWX2 slides--noTransform--1a4ek">
                     <div class="slide--2fJIv">
                       <div class="container--C5wLT">
-                        <img class="image--1oiyD" src="https://cdn-a.cian.site/9/421/314/kvartira-opaliha-ulica-dezhneva-413124925-2.jpg" alt=""/>
+                        <img class="image--1oiyD" src="https://cdn-a.cian.site/8/421/314/kvartira-opaliha-ulica-dezhneva-413124820-2.jpg" alt=""/>
                       </div>
                     </div>
                   </div>
@@ -276,12 +271,7 @@
                     </div>
                   </a>
                   <div>
-                    <div class="container--2ul9a">
-                      <div style="margin-left:0">
-                        <a href="https://krasnogorsk.cian.ru/zhiloy-kompleks-opaliha-o2-mikrorayon-opaliha-1309/" class="building-link--jEtZL" target="_blank">
-                          ЖК «Опалиха О2»
-                        </a>
-                      </div>
+                    <div>
                     </div>
                   </div>
                 </div>
@@ -452,7 +442,7 @@
                     вчера
                   </div>
                   <div class="absolute--349Wb">
-                    вчера, 16:27
+                    вчера, 21:43
                   </div>
                 </div>
               </div>
@@ -495,7 +485,7 @@
   <div class="simplified-banner--TDe_n no-banner--3BZ8O">
     <span>
     </span>
-    <div id="AdFox_banner_2680180644">
+    <div id="AdFox_banner_1370384753">
     </div>
   </div>
   <div class="offer-container--2MrIy">
@@ -549,7 +539,7 @@
                       <div class="simplified-banner--TDe_n no-banner--3BZ8O">
                         <span>
                         </span>
-                        <div id="AdFox_banner_2637435689">
+                        <div id="AdFox_banner_3847294281">
                         </div>
                       </div>
                     </div>
@@ -685,7 +675,7 @@
                     вчера
                   </div>
                   <div class="absolute--349Wb">
-                    вчера, 15:21
+                    вчера, 19:45
                   </div>
                 </div>
               </div>
@@ -781,7 +771,7 @@
                       <div class="simplified-banner--TDe_n no-banner--3BZ8O">
                         <span>
                         </span>
-                        <div id="AdFox_banner_2495380846">
+                        <div id="AdFox_banner_3895131843">
                         </div>
                       </div>
                     </div>
@@ -886,7 +876,7 @@
                 <div class="container--3wMu_">
                   <button class="_2_I0uxAX1QTt_l4n _35LKst7i1uZi74JV _3Lpyrczb3U4kA1TV button--2C5U- simplified-button--i5Y-q" type="button">
                     <span class="phone--2774k simplified-phone--1z3bI">
-                      +7 495 777-88-…
+                      +7 499 372-92-…
                     </span>
                   </button>
                 </div>
@@ -942,7 +932,264 @@
                     вчера
                   </div>
                   <div class="absolute--349Wb">
-                    вчера, 22:21
+                    вчера, 08:19
+                  </div>
+                </div>
+              </div>
+              <div class="container--D9Tks container-hover--ODbg9 label--1sCPG">
+                <button class="button--1g38q">
+                  <span class="icon--small--2w9aN">
+                  </span>
+                </button>
+                <div class="popup-container--3Z0Pp">
+                  <div class="_3QchXDEqANVfys4s _3dToPBquR3B_sQ8N CdeQWjnG1Vn_arqp popup--2iQZK">
+                    <div class="icon--2A8D4">
+                      <span class="icon--1qoLe">
+                      </span>
+                    </div>
+                    <strong class="title--37jEn">
+                      Платное
+                    </strong>
+                    <p class="description--2ErDH">
+                      По статистике, более достоверны и вызывают больше доверия пользователей, чем бесплатные
+                    </p>
+                    <a class="_2_I0uxAX1QTt_l4n _35LKst7i1uZi74JV _3Lpyrczb3U4kA1TV link--3MHZw" href="/promo/adv#paid" target="_blank">
+                      Узнать подробнее
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="map-container--353gU">
+      <div class="map---16XV">
+      </div>
+    </div>
+  </div>
+  <div class="offer-container--2MrIy">
+    <div class="container--2TUlB">
+      <div class="main-container--6uy06">
+        <div class="media--2wxts">
+          <div class="container--1PSzw">
+            <div class="container--2bixz photos--3eh9D">
+              <span itemprop="url" content="https://cdn-p.cian.site/images/0/534/674/novostroyka-opaliha-ulica-dezhneva-476435005-1.jpg">
+              </span>
+              <div class="container--2YRIp">
+                <div class="container--27xlO">
+                  <div class="slides--3lWX2 slides--noTransform--1a4ek">
+                    <div class="slide--2fJIv">
+                      <div class="container--C5wLT">
+                        <img class="image--1oiyD" src="https://cdn-p.cian.site/images/0/534/674/novostroyka-opaliha-ulica-dezhneva-476435005-2.jpg" alt=""/>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="controls--_FUD5" style="display:none">
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="main--2483g">
+          <div class="info-container--b4wlW">
+            <div class="info--nO7DG">
+              <div class="info-section--2Vjwo main-info--pvskZ">
+                <div>
+                  <a href="https://krasnogorsk.cian.ru/sale/flat/183909388/" class="header--28QlS" target="_blank">
+                    <div class="title--32t2O">
+                      2-комн. кв., 52 м², 2/8 этаж
+                    </div>
+                  </a>
+                  <div>
+                    <div class="container--2ul9a">
+                      <div style="margin-left:0">
+                        <a href="https://krasnogorsk.cian.ru/zhiloy-kompleks-opaliha-o2-mikrorayon-opaliha-1309/" class="building-link--jEtZL" target="_blank">
+                          ЖК «Опалиха О2»
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="deadline--X6dCg">
+                    Дом сдан
+                  </div>
+                </div>
+                <div>
+                  <div>
+                    <div class="header--29P2q">
+                      5 700 000 ₽
+                    </div>
+                    <div class="term--c3QLE">
+                      109 615 ₽/м²
+                    </div>
+                    <div class="mortgage-banner-wrapper--2tKjz">
+                      <div class="simplified-banner--TDe_n no-banner--3BZ8O">
+                        <span>
+                        </span>
+                        <div id="AdFox_banner_2994710683">
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="info-section--2Vjwo">
+                <div>
+                  <div class="underground-container--2Sf9f">
+                    <a class="underground-link--3l_J8" href="https://www.cian.ru/kupit-2-komnatnuyu-kvartiru-moskva-metro-myakinino/" target="_blank">
+                      <div class="icons--1nXNe">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 16 16" width="16" height="16">
+                          <path fill="#03238B" fill-rule="evenodd" d="M11.154 4L8 9.53 4.845 4 1.1 13.466H0v1.428h5.657v-1.428H4.81l.824-2.36L8 15l2.365-3.893.824 2.36h-.85v1.427H16v-1.428h-1.1z"/>
+                        </svg>
+                      </div>
+                      <div class="underground-name--ExtF1">
+                        Мякинино
+                      </div>
+                    </a>
+                    <div class="remoteness--3GbHK">
+                      23 минуты на транспорте
+                    </div>
+                  </div>
+                  <div class="address-links--3Qx74">
+                    <span itemprop="name" content="Московская область, Красногорск, мкр. Опалиха, м. Мякинино, улица Дежнева, 11">
+                    </span>
+                    <div class="link-container--2d5jC">
+                      <a class="_38zPGmbr3GSDPyBo  item--2Hi72 address-link--wxr2p" href="https://www.cian.ru/kupit-2-komnatnuyu-kvartiru-moskovskaya-oblast/" target="_blank">
+                        Московская область
+                      </a>
+                    </div>
+                    , 
+                    <div class="link-container--2d5jC">
+                      <a class="_38zPGmbr3GSDPyBo  item--2Hi72 address-link--wxr2p" href="https://krasnogorsk.cian.ru/kupit-2-komnatnuyu-kvartiru/" target="_blank">
+                        Красногорск
+                      </a>
+                    </div>
+                    , 
+                    <div class="link-container--2d5jC">
+                      <a class="_38zPGmbr3GSDPyBo  item--2Hi72 address-link--wxr2p" href="https://krasnogorsk.cian.ru/kupit-2-komnatnuyu-kvartiru-moskovskaya-oblast-krasnogorsk-opaliha-041169/" target="_blank">
+                        мкр. Опалиха
+                      </a>
+                    </div>
+                    , 
+                    <div class="link-container--2d5jC">
+                      <a class="_38zPGmbr3GSDPyBo  item--2Hi72 address-link--wxr2p" href="https://www.cian.ru/kupit-2-komnatnuyu-kvartiru-moskva-metro-myakinino/" target="_blank">
+                        м. Мякинино
+                      </a>
+                    </div>
+                    , 
+                    <div class="link-container--2d5jC">
+                      <a class="_38zPGmbr3GSDPyBo  item--2Hi72 address-link--wxr2p" href="https://krasnogorsk.cian.ru/kupit-2-komnatnuyu-kvartiru-moskovskaya-oblast-krasnogorsk-opaliha-mkr-ulica-dezhneva-02511229/" target="_blank">
+                        улица Дежнева
+                      </a>
+                    </div>
+                    , 
+                    <div class="link-container--2d5jC">
+                      <a class="_38zPGmbr3GSDPyBo  item--2Hi72 address-link--wxr2p" href="/cat.php?deal_type=sale&amp;engine_version=2&amp;house%5B0%5D=1698583&amp;offer_type=flat&amp;room2=1" target="_blank">
+                        11
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="container--_6O5h info-section--2Vjwo">
+                КВАРТИРА В ЕВРО РЕМОНТОМ! ЖК Опалиха 2. Новый тёплый,монолитный дом.Квартира с качественным ремонтом (только кухня стоит более 300 тыс.) все делали для себя и продавать не планировали.Имеется 2 больших застекленных балкона по 6 кв.м.Квартира укомплектована новой,современной мебелью и новой бытовой техникой ведущих европейских производителе.Все подробности вы можете уточнить по Тел. Продам 2-комнатную квартиру На улице Дежнева в микрорайоне Опалиха в городе Красногорск.
+              </div>
+            </div>
+            <div class="agent--3yTQ9">
+              <div>
+                <div class="container--3tDZJ container-reverse--3fYI3">
+                  <div>
+                    <div class="userInfo--2V3rs user-info--39FdU">
+                      <div>
+                        <div class="name--2TVn3 agent-section--1GOYj">
+                          ID 13867
+                        </div>
+                        <div class="badge-container--2F-ty agent-section--1GOYj">
+                          <div class="badge--3PSut">
+                            <div class="honestwork_component-container-cZZE5wdFhC6">
+                              <div class="honestwork_component-icon-lkYHq3gFFYa  ">
+                                <svg viewbox="0 0 14 15" xmlns="http://www.w3.org/2000/svg">
+                                  <path d="M11.073 2.037A29.072 29.072 0 0 1 7 0C5.833.7 4.667 1.3 3.5 1.8 2.333 2.3 1.167 2.7 0 3l.42 4.2a9 9 0 0 0 6.11 7.643L7 15l.47-.157A9 9 0 0 0 13.58 7.2L14 3a23.214 23.214 0 0 1-1.656-.493l.047.056-.16.193a35.272 35.272 0 0 0-5.158 8.364l-.262.603-.284-.594c-.604-1.264-1.82-3.006-2.744-3.98l-.186-.194 1.24-1.464.23.247A13.788 13.788 0 0 1 6.73 7.895c1.046-1.881 2.82-4.234 4.342-5.858z" fill="currentColor" fill-rule="evenodd"/>
+                                </svg>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="badge--3PSut text-badge--1uxg2">
+                            PRO
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="panels-container--3hzTk">
+            <div class="left-panel--19-EU">
+              <div class="button--3kpu2">
+                <div class="container--3wMu_">
+                  <button class="_2_I0uxAX1QTt_l4n _35LKst7i1uZi74JV _3Lpyrczb3U4kA1TV button--2C5U- simplified-button--i5Y-q" type="button">
+                    <span class="phone--2774k simplified-phone--1z3bI">
+                      +7 903 523-34-…
+                    </span>
+                  </button>
+                </div>
+              </div>
+              <div class="button--3kpu2 like-container--3lKne">
+                <button class="main--OelS0 light--3jd21 button--30pGb like-button--18tgI">
+                  <svg class="icon--2uktP" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 14.004 14" width="14" height="14">
+                    <path stroke="#E84260" stroke-width="2" d="M6.99 11.72L1.825 6.677C.727 5.582.725 3.805 1.82 2.707l.015-.015c1.118-1.08 2.962-1.08 4.092.014l.36.35.67.648.694-.62.394-.35.03-.028c1.13-1.095 2.973-1.095 4.104 0 1.1 1.093 1.103 2.87.01 3.968l-.015.015-5.182 5.03z"/>
+                  </svg>
+                  В избранное
+                </button>
+              </div>
+              <div title="Показать на карте" class="button--3kpu2">
+                <button class="button_component-button-2hIj4QUTIcs button_component-S-9cwsfYsel2k button_component-ghost-ixPuZGg4b64 button_component-primary-8urnaWhjFK8 map-button--36YIi dynamic-button--17AB1">
+                  <span class="button_component-button-text-5sIw8SYZRm6">
+                  </span>
+                  <svg class="button_component-sync-8WWrlMTMpa4 button_component-sync-small-8cbnQ9Xac8E" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewbox="0 0 16 16">
+                    <path fill="currentColor" fill-rule="evenodd" d="M8 16a8.008 8.008 0 0 1-8-8h2.134A5.866 5.866 0 1 0 8 2.133V0a8 8 0 1 1 0 16z"/>
+                  </svg>
+                </button>
+              </div>
+              <div class="button--3kpu2">
+                <div title="Пожаловаться на объявление">
+                  <button class="button_component-button-2hIj4QUTIcs button_component-S-9cwsfYsel2k button_component-ghost-ixPuZGg4b64 button_component-primary-8urnaWhjFK8 report-button--sFS7u dynamic-button--17AB1">
+                    <span class="button_component-button-text-5sIw8SYZRm6">
+                    </span>
+                    <svg class="button_component-sync-8WWrlMTMpa4 button_component-sync-small-8cbnQ9Xac8E" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewbox="0 0 16 16">
+                      <path fill="currentColor" fill-rule="evenodd" d="M8 16a8.008 8.008 0 0 1-8-8h2.134A5.866 5.866 0 1 0 8 2.133V0a8 8 0 1 1 0 16z"/>
+                    </svg>
+                  </button>
+                </div>
+              </div>
+              <div class="button--3kpu2">
+                <div>
+                  <div title="Ещё">
+                    <button class="button_component-button-2hIj4QUTIcs button_component-S-9cwsfYsel2k button_component-ghost-ixPuZGg4b64 button_component-primary-8urnaWhjFK8 more-button--Q8_tH dynamic-button--17AB1">
+                      <span class="button_component-button-text-5sIw8SYZRm6">
+                      </span>
+                      <svg class="button_component-sync-8WWrlMTMpa4 button_component-sync-small-8cbnQ9Xac8E" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewbox="0 0 16 16">
+                        <path fill="currentColor" fill-rule="evenodd" d="M8 16a8.008 8.008 0 0 1-8-8h2.134A5.866 5.866 0 1 0 8 2.133V0a8 8 0 1 1 0 16z"/>
+                      </svg>
+                    </button>
+                  </div>
+                  <div class="popup-container--1wg8D">
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="right-panel--1hTos">
+              <div class="time--2WgvN">
+                <div class="timeLabel--3dWzu">
+                  <div class="relative--9hVI7">
+                    три дня назад
+                  </div>
+                  <div class="absolute--349Wb">
+                    2 май, 09:06
                   </div>
                 </div>
               </div>
@@ -1030,7 +1277,7 @@
                       <div class="simplified-banner--TDe_n no-banner--3BZ8O">
                         <span>
                         </span>
-                        <div id="AdFox_banner_1361855192">
+                        <div id="AdFox_banner_2516646286">
                         </div>
                       </div>
                     </div>
@@ -1096,7 +1343,7 @@
                 </div>
               </div>
               <div class="container--_6O5h info-section--2Vjwo">
-                Продам 2 комн. квартиру, ул. Дежнева, д.12 с кладовым помещением! Жилой комплекс "Опалиха-О2",построенный по индивидуальному проекту компанией Урбан Групп. .Общ. пл. 49 кв.м. Комнаты раздельные 17.1 и 10.6 кв.м. Кухня 8.1 кв.м. С/у раздельный. 2/6 эт. Качественный евро-ремонт, делали для себя с использованием экологически чистых материалов. Теплые полы на кухне, в коридоре, и с/у. Большой балкон. Кухня встроенная, натуральное дерево,техника: духовой шкаф, варочная панель, посудомоечная машина, холодильник,СМА. Мебель в комнатах обсуждается. Также в стоимость входит кладовое помещение, площадью 5 кв.м., с ремонтом и установленными шкафами и полками. Развитый район, рядом вся инфраструктура, школа, дет. сад., поликлиника, магазины, кафе. Пешая доступность до пл. Опалиха. 1 взрослый собственник, никто не прописан, свободная продажа. Оперативный показ и выход на сделку. Все документы готовы. 8-985-916-54-88 Мария. Продам 2-комнатную квартиру На улице Дежнева в микрорайоне Опалиха в городе Красногорск.
+                Продам 2 комн. квартиру, ул. Дежнева, д.12 с кладовым помещением! Жилой комплекс "Опалиха-О2",построенный по индивидуальному проекту компанией Урбан Групп. .Общ. пл. 49 кв.м. Комнаты раздельные 17.1 и 10.6 кв.м. Кухня 8.1 кв.м. С/у раздельный. 2/6 эт. Качественный евро-ремонт, делали для себя с использованием экологически чистых материалов. Теплые полы на кухне, в коридоре, и с/у. Большой балкон. Кухня встроенная, натуральное дерево,техника: духовой шкаф, варочная панель, посудомоечная машина, холодильник,СМА. Мебель в комнатах обсуждается. Также в стоимость входит кладовое помещение, площадью 5 кв.м., с ремонтом и установленными шкафами и полками. Развитый район, рядом вся инфраструктура, школа, дет. сад., поликлиника, магазины, кафе. Пешая доступность до пл. Опалиха. 1 взрослый собственник, никто не прописан, свободная продажа. Оперативный показ и выход на сделку. Все документы готовы. 8-985-916-54-88 Мария.
               </div>
             </div>
             <div class="agent--3yTQ9">
@@ -1188,10 +1435,10 @@
               <div class="time--2WgvN">
                 <div class="timeLabel--3dWzu">
                   <div class="relative--9hVI7">
-                    вчера
+                    2 часа назад
                   </div>
                   <div class="absolute--349Wb">
-                    вчера, 13:53
+                    сегодня, 12:15
                   </div>
                 </div>
               </div>
@@ -1276,6 +1523,12 @@
                       114 815 ₽/м²
                     </div>
                     <div class="mortgage-banner-wrapper--2tKjz">
+                      <div class="simplified-banner--TDe_n no-banner--3BZ8O">
+                        <span>
+                        </span>
+                        <div id="AdFox_banner_1691972879">
+                        </div>
+                      </div>
                     </div>
                   </div>
                 </div>
@@ -1434,7 +1687,7 @@
                     вчера
                   </div>
                   <div class="absolute--349Wb">
-                    вчера, 21:54
+                    3 май, 23:25
                   </div>
                 </div>
               </div>
@@ -1469,6 +1722,12 @@
     <div class="map-container--353gU">
       <div class="map---16XV">
       </div>
+    </div>
+  </div>
+  <div class="simplified-banner--TDe_n no-banner--3BZ8O">
+    <span>
+    </span>
+    <div id="AdFox_banner_4032986689">
     </div>
   </div>
   <div class="offer-container--2MrIy">
@@ -1522,7 +1781,7 @@
                       <div class="simplified-banner--TDe_n no-banner--3BZ8O">
                         <span>
                         </span>
-                        <div id="AdFox_banner_2610906071">
+                        <div id="AdFox_banner_4158190770">
                         </div>
                       </div>
                     </div>
@@ -1665,7 +1924,7 @@
                     вчера
                   </div>
                   <div class="absolute--349Wb">
-                    14 апр, 11:04
+                    вчера, 13:05
                   </div>
                 </div>
               </div>
@@ -1700,12 +1959,6 @@
     <div class="map-container--353gU">
       <div class="map---16XV">
       </div>
-    </div>
-  </div>
-  <div class="simplified-banner--TDe_n no-banner--3BZ8O">
-    <span>
-    </span>
-    <div id="AdFox_banner_1942107216">
     </div>
   </div>
   <div class="offer-container--2MrIy">
@@ -1759,7 +2012,7 @@
                       <div class="simplified-banner--TDe_n no-banner--3BZ8O">
                         <span>
                         </span>
-                        <div id="AdFox_banner_4169690435">
+                        <div id="AdFox_banner_1183096447">
                         </div>
                       </div>
                     </div>
@@ -1910,10 +2163,248 @@
               <div class="time--2WgvN">
                 <div class="timeLabel--3dWzu">
                   <div class="relative--9hVI7">
-                    неделю назад
+                    3 недели назад
                   </div>
                   <div class="absolute--349Wb">
                     7 апр, 11:11
+                  </div>
+                </div>
+              </div>
+              <div class="container--D9Tks container-hover--ODbg9 label--1sCPG">
+                <button class="button--1g38q">
+                  <span class="icon--small--2w9aN">
+                  </span>
+                </button>
+                <div class="popup-container--3Z0Pp">
+                  <div class="_3QchXDEqANVfys4s _3dToPBquR3B_sQ8N CdeQWjnG1Vn_arqp popup--2iQZK">
+                    <div class="icon--2A8D4">
+                      <span class="icon--1qoLe">
+                      </span>
+                    </div>
+                    <strong class="title--37jEn">
+                      Платное
+                    </strong>
+                    <p class="description--2ErDH">
+                      По статистике, более достоверны и вызывают больше доверия пользователей, чем бесплатные
+                    </p>
+                    <a class="_2_I0uxAX1QTt_l4n _35LKst7i1uZi74JV _3Lpyrczb3U4kA1TV link--3MHZw" href="/promo/adv#paid" target="_blank">
+                      Узнать подробнее
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="map-container--353gU">
+      <div class="map---16XV">
+      </div>
+    </div>
+  </div>
+  <div class="offer-container--2MrIy">
+    <div class="container--2TUlB">
+      <div class="main-container--6uy06">
+        <div class="media--2wxts">
+          <div class="container--1PSzw">
+            <div class="container--2bixz photos--3eh9D">
+              <span itemprop="url" content="https://cdn-p.cian.site/images/7/412/174/kvartira-opaliha-ulica-dezhneva-471214715-1.jpg">
+              </span>
+              <div class="container--2YRIp">
+                <div class="container--27xlO">
+                  <div class="slides--3lWX2 slides--noTransform--1a4ek">
+                    <div class="slide--2fJIv">
+                      <div class="container--C5wLT">
+                        <img class="image--1oiyD" src="https://cdn-p.cian.site/images/7/412/174/kvartira-opaliha-ulica-dezhneva-471214715-2.jpg" alt=""/>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="controls--_FUD5" style="display:none">
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="main--2483g">
+          <div class="info-container--b4wlW">
+            <div class="info--nO7DG">
+              <div class="info-section--2Vjwo main-info--pvskZ">
+                <div>
+                  <a href="https://krasnogorsk.cian.ru/sale/flat/182854285/" class="header--28QlS" target="_blank">
+                    <div class="title--32t2O">
+                      2-комн. кв., 57 м², 3/8 этаж
+                    </div>
+                  </a>
+                  <div>
+                    <div>
+                    </div>
+                  </div>
+                </div>
+                <div>
+                  <div>
+                    <div class="header--29P2q">
+                      6 150 000 ₽
+                    </div>
+                    <div class="term--c3QLE">
+                      107 330 ₽/м²
+                    </div>
+                    <div class="mortgage-banner-wrapper--2tKjz">
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="info-section--2Vjwo">
+                <div>
+                  <div class="underground-container--2Sf9f">
+                    <a class="underground-link--3l_J8" href="https://www.cian.ru/kupit-2-komnatnuyu-kvartiru-moskva-metro-tushinskaya/" target="_blank">
+                      <div class="icons--1nXNe">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 16 16" width="16" height="16">
+                          <path fill="#94007C" fill-rule="evenodd" d="M11.154 4L8 9.53 4.845 4 1.1 13.466H0v1.428h5.657v-1.428H4.81l.824-2.36L8 15l2.365-3.893.824 2.36h-.85v1.427H16v-1.428h-1.1z"/>
+                        </svg>
+                      </div>
+                      <div class="underground-name--ExtF1">
+                        Тушинская
+                      </div>
+                    </a>
+                    <div class="remoteness--3GbHK">
+                      16 минут на транспорте
+                    </div>
+                  </div>
+                  <div class="address-links--3Qx74">
+                    <span itemprop="name" content="Московская область, Красногорск, мкр. Опалиха, м. Тушинская, улица Дежнева, 2">
+                    </span>
+                    <div class="link-container--2d5jC">
+                      <a class="_38zPGmbr3GSDPyBo  item--2Hi72 address-link--wxr2p" href="https://www.cian.ru/kupit-2-komnatnuyu-kvartiru-moskovskaya-oblast/" target="_blank">
+                        Московская область
+                      </a>
+                    </div>
+                    , 
+                    <div class="link-container--2d5jC">
+                      <a class="_38zPGmbr3GSDPyBo  item--2Hi72 address-link--wxr2p" href="https://krasnogorsk.cian.ru/kupit-2-komnatnuyu-kvartiru/" target="_blank">
+                        Красногорск
+                      </a>
+                    </div>
+                    , 
+                    <div class="link-container--2d5jC">
+                      <a class="_38zPGmbr3GSDPyBo  item--2Hi72 address-link--wxr2p" href="https://krasnogorsk.cian.ru/kupit-2-komnatnuyu-kvartiru-moskovskaya-oblast-krasnogorsk-opaliha-041169/" target="_blank">
+                        мкр. Опалиха
+                      </a>
+                    </div>
+                    , 
+                    <div class="link-container--2d5jC">
+                      <a class="_38zPGmbr3GSDPyBo  item--2Hi72 address-link--wxr2p" href="https://www.cian.ru/kupit-2-komnatnuyu-kvartiru-moskva-metro-tushinskaya/" target="_blank">
+                        м. Тушинская
+                      </a>
+                    </div>
+                    , 
+                    <div class="link-container--2d5jC">
+                      <a class="_38zPGmbr3GSDPyBo  item--2Hi72 address-link--wxr2p" href="https://krasnogorsk.cian.ru/kupit-2-komnatnuyu-kvartiru-moskovskaya-oblast-krasnogorsk-opaliha-mkr-ulica-dezhneva-02511229/" target="_blank">
+                        улица Дежнева
+                      </a>
+                    </div>
+                    , 
+                    <div class="link-container--2d5jC">
+                      <a class="_38zPGmbr3GSDPyBo  item--2Hi72 address-link--wxr2p" href="/cat.php?deal_type=sale&amp;engine_version=2&amp;house%5B0%5D=1767127&amp;offer_type=flat&amp;room2=1" target="_blank">
+                        2
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="container--_6O5h info-section--2Vjwo">
+                Светлая, просторная квартира с большой гардеробной комнатой которую можно легко переоборудовать в отдельную комнатку. Замечательные соседи. Дом монолитно-кирпичный 2014 года.
+ЖК "Опалиха О2" -экологически удачный и безопасный район, окруженный лесным массивом, с живописными местами для прогулок, пикника, в 500 метрах озеро.
+Достойная инфраструктура: стадион (зимой каток), охраняемый паркинг, детский сад с бассейном, детский клуб, 7 современных детских площадок, салоны красоты, аптеки и магазины.
+Отличная транспортная доступность: 12 минут пешком до ж/д станции "Опалиха", (на электричке от ж/д ст. Опалиха до м. Тушино 15 минут, также доступны м. Войковская, Дмитровская, Рижская, Курская).
+1 собственник, оперативный показ в удобное для Вас время, возможна ипотека.
+              </div>
+            </div>
+            <div class="agent--3yTQ9">
+              <div>
+                <div class="container--3tDZJ container-reverse--3fYI3">
+                  <div>
+                    <div class="userInfo--2V3rs user-info--39FdU">
+                      <div>
+                        <div class="name--2TVn3 agent-section--1GOYj">
+                          ID 15967321
+                        </div>
+                        <div class="badge-container--2F-ty agent-section--1GOYj">
+                          <div class="badge--3PSut text-badge--1uxg2">
+                            Собственник
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="panels-container--3hzTk">
+            <div class="left-panel--19-EU">
+              <div class="button--3kpu2">
+                <div class="container--3wMu_">
+                  <button class="_2_I0uxAX1QTt_l4n _35LKst7i1uZi74JV _3Lpyrczb3U4kA1TV button--2C5U- simplified-button--i5Y-q" type="button">
+                    <span class="phone--2774k simplified-phone--1z3bI">
+                      +7 916 559-98-…
+                    </span>
+                  </button>
+                </div>
+              </div>
+              <div class="button--3kpu2 like-container--3lKne">
+                <button class="main--OelS0 light--3jd21 button--30pGb like-button--18tgI">
+                  <svg class="icon--2uktP" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 14.004 14" width="14" height="14">
+                    <path stroke="#E84260" stroke-width="2" d="M6.99 11.72L1.825 6.677C.727 5.582.725 3.805 1.82 2.707l.015-.015c1.118-1.08 2.962-1.08 4.092.014l.36.35.67.648.694-.62.394-.35.03-.028c1.13-1.095 2.973-1.095 4.104 0 1.1 1.093 1.103 2.87.01 3.968l-.015.015-5.182 5.03z"/>
+                  </svg>
+                  В избранное
+                </button>
+              </div>
+              <div title="Показать на карте" class="button--3kpu2">
+                <button class="button_component-button-2hIj4QUTIcs button_component-S-9cwsfYsel2k button_component-ghost-ixPuZGg4b64 button_component-primary-8urnaWhjFK8 map-button--36YIi dynamic-button--17AB1">
+                  <span class="button_component-button-text-5sIw8SYZRm6">
+                  </span>
+                  <svg class="button_component-sync-8WWrlMTMpa4 button_component-sync-small-8cbnQ9Xac8E" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewbox="0 0 16 16">
+                    <path fill="currentColor" fill-rule="evenodd" d="M8 16a8.008 8.008 0 0 1-8-8h2.134A5.866 5.866 0 1 0 8 2.133V0a8 8 0 1 1 0 16z"/>
+                  </svg>
+                </button>
+              </div>
+              <div class="button--3kpu2">
+                <div title="Пожаловаться на объявление">
+                  <button class="button_component-button-2hIj4QUTIcs button_component-S-9cwsfYsel2k button_component-ghost-ixPuZGg4b64 button_component-primary-8urnaWhjFK8 report-button--sFS7u dynamic-button--17AB1">
+                    <span class="button_component-button-text-5sIw8SYZRm6">
+                    </span>
+                    <svg class="button_component-sync-8WWrlMTMpa4 button_component-sync-small-8cbnQ9Xac8E" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewbox="0 0 16 16">
+                      <path fill="currentColor" fill-rule="evenodd" d="M8 16a8.008 8.008 0 0 1-8-8h2.134A5.866 5.866 0 1 0 8 2.133V0a8 8 0 1 1 0 16z"/>
+                    </svg>
+                  </button>
+                </div>
+              </div>
+              <div class="button--3kpu2">
+                <div>
+                  <div title="Ещё">
+                    <button class="button_component-button-2hIj4QUTIcs button_component-S-9cwsfYsel2k button_component-ghost-ixPuZGg4b64 button_component-primary-8urnaWhjFK8 more-button--Q8_tH dynamic-button--17AB1">
+                      <span class="button_component-button-text-5sIw8SYZRm6">
+                      </span>
+                      <svg class="button_component-sync-8WWrlMTMpa4 button_component-sync-small-8cbnQ9Xac8E" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewbox="0 0 16 16">
+                        <path fill="currentColor" fill-rule="evenodd" d="M8 16a8.008 8.008 0 0 1-8-8h2.134A5.866 5.866 0 1 0 8 2.133V0a8 8 0 1 1 0 16z"/>
+                      </svg>
+                    </button>
+                  </div>
+                  <div class="popup-container--1wg8D">
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="right-panel--1hTos">
+              <div class="time--2WgvN">
+                <div class="timeLabel--3dWzu">
+                  <div class="relative--9hVI7">
+                    вчера
+                  </div>
+                  <div class="absolute--349Wb">
+                    вчера, 11:58
                   </div>
                 </div>
               </div>
